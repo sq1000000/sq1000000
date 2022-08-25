@@ -6,7 +6,7 @@
    aria-label="BANDCAMP"
    version="1.1"
    id="svg14"
-   sodipodi:docname="bandcamp-#0077B5.svg?&amp;style=for-the-badge&amp;logo=bandcamp&amp;logoColor=white.svg"
+   sodipodi:docname="bandcamp.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="6.0344622"
-     inkscape:cx="25.188657"
-     inkscape:cy="22.620077"
+     inkscape:zoom="15.303913"
+     inkscape:cx="45.772607"
+     inkscape:cy="3.495838"
      inkscape:window-width="1920"
      inkscape:window-height="1115"
      inkscape:window-x="0"
@@ -45,7 +45,8 @@
        width="111"
        height="28"
        fill="#0077b5"
-       id="rect4" />
+       id="rect4"
+       style="fill:#11aadd;fill-opacity:1" />
   </g>
   <g
      fill="#fff"
