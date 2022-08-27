@@ -1,6 +1,5 @@
 <h1 align="left">Hi, I'm Xav!</h1>
-
-I'm still learning, so my code is isn't perfect. If you have any suggestions on anything I make, feel free to submit a pull request, or send me a DM on discord!
+Best coder in the west. If you have any suggestions on anything I make, feel free to submit a pull request, or send me a DM on discord!
 
 <h2 align="left">What I'm listening to:</h2>
 
